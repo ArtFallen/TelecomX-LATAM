@@ -19,7 +19,7 @@ Análisis exploratorio y estratégico del churn de clientes de TelecomX, identif
 **1. Clonar o descargar el repositorio**
 
 ```bash
-git clone <url-del-repo>
+git clone https://github.com/ArtFallen/TelecomX-LATAM.git
 cd telecomx-churn
 ```
 
